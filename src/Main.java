@@ -82,6 +82,8 @@ public class Main {
                 valor = t.nextDouble();
                 double j = Math.log(valor);
                 System.out.println("El log de " + valor + " es: " + j);
+                System.out.println("Cambios");
+
 
             }
 
